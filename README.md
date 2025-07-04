@@ -39,10 +39,10 @@ To identify key risk factors associated with stroke using a cleaned healthcare d
    - Key KPIs, trends, and summary insights all in one dashboard
 
 ## 💡 Key Insights
-- 🔹 **Age**: Seniors (60+) had a stroke rate of 13.15% — highest among all groups  
-- 🔹 **Glucose**: Diabetic individuals had a 10.12% stroke risk  
-- 🔹 **BMI**: Overweight category showed highest stroke % (6.65%)  
-- 🔹 **Hypertension**: Stroke rate for hypertensive patients was 13.25% vs 3.97% for non-hypertensive  
+  🔹 **Age**: Seniors (60+) had a stroke rate of 13.15% — highest among all groups  
+  🔹 **Glucose**: Diabetic individuals had a 10.12% stroke risk  
+  🔹 **BMI**: Overweight category showed highest stroke % (6.65%)  
+  🔹 **Hypertension**: Stroke rate for hypertensive patients was 13.25% vs 3.97% for non-hypertensive  
 
 ## 📁 File Structure
 - `StrokeAnalysis_Excel_Sowmya.xlsx` – Full project workbook with formulas, analysis, and dashboard  
