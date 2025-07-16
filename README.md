@@ -89,6 +89,12 @@ To identify key risk factors associated with stroke using a cleaned healthcare d
 
 ---
 
+📌 **Real-World Healthcare Applications:**
+
+This analysis mirrors how public health agencies, healthcare consultants, and clinical analysts use data to identify stroke risk factors within populations. Insights from this project can help guide preventive strategies, patient education, resource allocation, and policy decisions to reduce stroke incidence. Understanding patterns in risk factors like age, glucose, BMI, and hypertension supports more targeted healthcare interventions and improved health outcomes at both the individual and community level.
+
+---
+
 ## 👩🏻‍💻 About Me  
 Created by **Sowmya Deshpande** — MPH Candidate | Data Analyst in Training | Healthcare Consulting Extern  
 🔗 [LinkedIn](https://linkedin.com/in/sowmyadeshpande) | 🌐 [GitHub](https://github.com/DeshpandeSowmya)
